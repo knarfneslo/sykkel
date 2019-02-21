@@ -2,6 +2,7 @@
 fire dager - fire dalføre - fem fjellmassiv - fjord og fjell - grus, sti og asfalt
 
 Siste uka i juli. Tog fra Oslo til Haugastøl, og retur til Oslo med tog fra Otta.
+
 Fire dalføre:
 - Hallingdal
 - Valdres
@@ -18,14 +19,19 @@ Fem fjellmassiv:
 Sognefjorden: Flåm - Aurland - Lærdal
 
 Dag 1: Rallarvegen fra Haugastøl til Flåm (grus og sti), videre til Aurland og over Aurlandfjellet til Lærdal (asfalt).
+
 138 km - 2,520 m opp - 3,500 m ned
 
 Dag 2: Lærdal til Vang i Valdres - Kongevegen over Filefjell.
+
 Vi tar taxi fra Vang til Beitostølen (pris ca. 1000,-).
+
 88.0 km - 1,510 m opp - 1,000 m ned
 
 Dag 3: Beitostølen til Vinstra. Vi sykler opp til Valdresflya (asfalt) og tar så Jotunheimvegen (grus) til Skåbu og videre til Vinstra (asfalt).
+
 Tog fra Vinstra til Hjerkinn.
+
 91.7 km - 1,240 m opp - 1,920 m ned
 
 
