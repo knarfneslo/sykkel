@@ -2,7 +2,7 @@
 ### fire dager - fire dalføre - fem fjellmassiv - fjord og fjell - grus, sti og asfalt
 
 Siste uka i juli. Tog fra Oslo til Haugastøl, og retur til Oslo med tog fra Otta.
-Se ruta[her](/home/frank/Documents/Frank/Privat/S2019/20190221143730-16238-map.html)
+Se ruta [her](/home/frank/Documents/Frank/Privat/S2019/20190221143730-16238-map.html)
 
 ### Fire dalføre:
 - Hallingdal
