@@ -2,7 +2,7 @@
 ### fire dager - fire dalføre - fem fjellmassiv - fjord og fjell - grus, sti og asfalt
 
 Siste uka i juli. Tog fra Oslo til Haugastøl, og retur til Oslo med tog fra Otta.
-Se ruta [her](https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=geometry&amp;language='+(self.language_code?self.language_code:'')+'&amp;key='+(self.google_api_key?self.google_api_key:'')+')
+Se ruta [her](<iframe src="my_map.html" width="700" height="500" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>)
 
 ### Fire dalføre:
 - Hallingdal
