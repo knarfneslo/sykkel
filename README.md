@@ -4,6 +4,8 @@
 Siste uka i juli. Tog fra Oslo til Haugastøl, og retur til Oslo med tog fra Otta.
 Se ruta [her] <iframe src="https://github.com/knarfneslo/sykkel/blob/master/20190221143730-16238-map.html" width="700" height="500" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
 
+![20190221143730-16238-map.html](./20190221143730-16238-map.html) 
+
 ### Fire dalføre:
 - Hallingdal
 - Valdres
