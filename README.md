@@ -1,4 +1,4 @@
-# Sykkeltur 2019: 
+# Sykkeltur sommer 2019: 
 ### fire dager - fire dalføre - fem fjellmassiv - fjord og fjell - grus, sti og asfalt
 
 Siste uka i juli. Tog fra Oslo til Haugastøl, og retur til Oslo med tog fra Otta.
